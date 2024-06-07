@@ -1,4 +1,3 @@
-# Hi, I'm Law Kumar! 👋
 # Project Title
 Snap-Shot Project is about the Photo Gallery having few Photos related to the Search Name.
 
@@ -33,14 +32,6 @@ npm start
 - url : https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=${apiKey}&tags=${query}&per_page=24&format=json&nojsoncallback=1
 
 
-
-
-
-## Authors
-
-- [@LawKumar](https://github.com/Luvkumar03/SnapShot_Project_4)
-
-
 ## Features
 
 - Responsive Design
@@ -49,10 +40,6 @@ npm start
 
 ## Demo Of the Project
 - [@Demo of the project](https://snap-shot-project-4.vercel.app/)
-## Demo
-
-Insert gif or link to demo
-
 
 ## Deployment
 
@@ -61,17 +48,6 @@ To deploy this project run
 ```bash
   npm run deploy
 ```
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at
-- [@LawBhardwaj](https://twitter.com/BhardwazLuv)
-
-
-## 🔗 Links
-You can clone it to your local by following this link.
-- [Github ](https://github.com/Luvkumar03/SnapShot_Project_4)
 
 ## Languages
 
