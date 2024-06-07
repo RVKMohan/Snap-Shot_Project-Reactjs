@@ -37,10 +37,6 @@ npm start
 - Responsive Design
 - Search functionality added to search photos from api.
 
-
-## Demo Of the Project
-- [@Demo of the project](https://snap-shot-project-4.vercel.app/)
-
 ## Deployment
 
 To deploy this project run
@@ -56,4 +52,4 @@ To deploy this project run
 - JavaScript
 - React
 
-![Uploading Screenshot 2024-06-07 105458.png…]()
+![Screenshot 2024-06-07 105458](https://github.com/RVKMohan/Snap-Shot_Project-Reactjs/assets/107797667/4d2492b2-586c-440a-8be0-1a5629aed9f0)
